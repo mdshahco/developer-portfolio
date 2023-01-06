@@ -194,3 +194,61 @@ main{
     margin-top: 50px;
     text-align: center;
 }
+/* contact section */
+footer{
+    background-color: #FFF8F3;
+}
+/* .contact{
+    max-width: 1140px;
+    margin: 113px 230px;
+    display: flex;
+    gap: 117px;
+    padding: 130px 230px;
+
+} */
+.contact{
+    /* max-width: 1140px; */
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact a{
+    text-decoration: none;
+    margin-right: 24px;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0px;
+    width: 100%;
+    padding: 18px 30px;}
+
+input{
+    height: 64px;}
+
+.contact-section-title{
+    color: #181818;
+    text-align: left;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.connect-description{
+    color: #474747;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+footer .contact{
+    max-width: 1140px;
+    margin: 0px 200px;
+}
+footer{margin-top: 113px;
+}
+.lets-message-me{
+    margin-bottom: 28px;
+}
+
